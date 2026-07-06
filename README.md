@@ -4,7 +4,7 @@ This project examines infrastructural and geostrategic characteristics of three 
 
 ## Research Question
 
-What do the spatial characteristics of selected BRI-associated ports reveal about China's maritime infrastructure presence and motives in East Africa?
+What do the spatial characteristics of selected BRI-associated ports reveal about China's maritime infrastructure presence in East Africa?
 
 ## Software
 
@@ -15,4 +15,4 @@ What do the spatial characteristics of selected BRI-associated ports reveal abou
 
 ## Deliverable
 
-- BRIPorts.pdf
+- [BRIPorts.pdf](BRIPorts.pdf)
