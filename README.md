@@ -9,6 +9,7 @@ What do the spatial characteristics of selected BRI-associated ports reveal abou
 ## Software
 
 - QGIS
+- Google Earth Pro
 - Microsoft Excel
 - Microsoft Word
 - Python
